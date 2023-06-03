@@ -1,6 +1,6 @@
 Hello World !!
 I'm Priyansu;
-An Electrical Under_Grad with a lot of interest to learn;
+An Electrical Grad with a lot of interest to learn;
 I am going deep into Machine Learning currently;
 Hope to learn some new things from life;
 <!---
