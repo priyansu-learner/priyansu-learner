@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansu</h1>
 <h3 align="center">Highly motivated and results-driven Developer with a robust skill set encompassing Machine Learning & Artificial Intelligence.</h3>
 
-- 🌱 I’m currently learning **SQL and Data Visulization**
+- 🌱 I’m currently learning **SQL and Data Visualization**
 
 - 👯 I’m looking to collaborate on **ML and Deep Learning projects.**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyansu-panda-97608a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyansu-panda-97608a1b9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyansu-panda-97608a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyansu-panda-97608a1b9/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
