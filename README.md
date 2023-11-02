@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kapil.priyansu@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Priyansu_Panda_Resume](https://bit.ly/Priyansu_Panda_Resume)
+- 📄 Know about my experiences [https://bit.ly/Priyansu_Resume](https://bit.ly/Priyansu_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
